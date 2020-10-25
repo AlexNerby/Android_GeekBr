@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeekBrainsAndroid</string>
+    <string name="city">Санкт-Петербург</string>
+    <string name="temperature">+5</string>
+    <string name="feels_like_temperature">По ощущениям +3</string>
+    <string name="rain_action">В течении нескольких часов дождь</string>
+    <string name="todo">TODO</string>
+    <string name="day_temperature">Днем +7</string>
+    <string name="night_temperature">Ноч. +2</string>
+
+    <string name="today">Сегодня\n25 окт.</string>
+    <string name="tomorrow">Завтра\n26 окт.</string>
+    <string name="oct_27">Вт\n27 окт.</string>
+    <string name="oct_28">Ср\n28 окт.</string>
+    <string name="oct_29">Чт\n29 окт.</string>
+    <string name="oct_30">Пт\n30 окт.</string>
+    <string name="oct_31">Сб\n31 окт.</string>
+    <string name="nov_1">Вс\n1 ноя.</string>
+    <string name="nov_2">Пн\n2 ноя.</string>
+    <string name="nov_3">Вт\n3 ноя.</string>
+
+
+</resources>
